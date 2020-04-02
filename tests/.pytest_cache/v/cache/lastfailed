@@ -1,0 +1,12 @@
+{
+  "functional/test_users.py::test_home_page": true,
+  "functional/test_users.py::test_home_page_post": true,
+  "functional/test_users.py::test_invalid_login": true,
+  "functional/test_users.py::test_invalid_registration": true,
+  "functional/test_users.py::test_login_page": true,
+  "functional/test_users.py::test_valid_login_logout": true,
+  "functional/test_users.py::test_valid_registration": true,
+  "unit/test_models.py::test_new_user": true,
+  "unit/test_models.py::test_setting_password": true,
+  "unit/test_models.py::test_user_id": true
+}
